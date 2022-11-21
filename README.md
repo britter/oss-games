@@ -10,6 +10,13 @@ Games added to this list should be
 - working on modern hardware
 - available all macOS, Linux, and Windows
 
+## Piotr art
+
+Comparable curated lists are available at
+
+- https://osgameclones.com/ 
+- https://trilarion.github.io/opensourcegames/
+
 ## Games
 
 ### Strategy
